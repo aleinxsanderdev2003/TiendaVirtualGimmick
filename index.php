@@ -116,9 +116,9 @@ while ($row=mysqli_fetch_row ($ressql)){
 					<div class="single_shipping">
 						<div class="shippin_icone">
 							<i class="fa fa-history"></i>
-						</div>
+				</div>
 						<div class="shipping_content">
-							<h3>CRÉDITO EN SOLO 20 MINUTOS </h3>
+							<h3>CRÉDITO EN 20 MINUTOS GAAAAAA </h3>
 						</div>
 					</div>
 				</div>
